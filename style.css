@@ -1,0 +1,93 @@
+#gradient
+{
+    background-image: linear-gradient(to bottom right,plum,LightSalmon);
+    height:700px;
+    background-repeat: no-repeat;
+}
+#gradient1
+{
+    background-image: linear-gradient(to bottom right,plum,LightSalmon);
+    height: 700px;;
+    background-repeat: no-repeat;
+}
+#gradient2
+{
+    background-image: linear-gradient(to bottom right,plum,LightSalmon);
+    height:700px;
+    background-repeat: no-repeat;
+}
+#attemptLabel
+{
+    text-align: right;
+    color: black;
+    margin-top: 0;
+    
+}
+#attemptCount
+{
+    float: right;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color:plum ;
+    font-size: 60px;
+    text-align: center;
+    
+}
+#title
+{
+    font-style: normal;
+    text-align: center;
+    color: black;
+}
+#box1
+{
+    position: absolute;
+    background-color: aliceblue;
+    text-align: center;
+    left: 250px;
+    right: 400px;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+
+}
+#heading
+{
+    font-style: normal;
+    text-align: center;
+    color: black;
+}
+#textLabel
+{
+    font-style: normal;
+    text-align: center;
+    color: black;
+}
+#textBox
+{
+    background-image: linear-gradient(to bottom right,plum,LightSalmon);
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#checkButton
+{
+    background-color:plum;
+    height: 50px;
+    width: 150px;
+
+}
+#img
+{
+    height: 100px;
+    width: 150px;
+}
+#greater
+{
+    visibility: hidden;
+}
+#smaller
+{
+    visibility: hidden;
+}
